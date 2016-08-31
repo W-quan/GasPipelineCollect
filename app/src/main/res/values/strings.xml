@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GasPipelineCollect</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="gas_line_collect">燃气管道巡查</string>
+    <string name="data_collect">采集数据</string>
+    <string name="data_manager">管理数据</string>
+    <string name="app_setting">设置</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="marker">标记</string>
+    <string name="start">开始</string>
+    <string name="pause">暂停</string>
+    <string name="stop">结束</string>
+</resources>
